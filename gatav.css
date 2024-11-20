@@ -1,0 +1,14 @@
+p   {
+    color: rgb(161, 22, 22);
+    text-align: center;
+    padding: 70px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: DodgerBlue;
+}
+.p2 {
+    font-family:"Comic Sans MS";
+}
